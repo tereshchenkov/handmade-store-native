@@ -39,7 +39,7 @@ export default createBottomTabNavigator({
       style: {
         backgroundColor: 'white',
         borderTopWidth: 0,
-        elevation: 10
+        elevation: 3
       }
     },
     swipeEnabled: true
